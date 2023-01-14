@@ -18,10 +18,10 @@ class script(object):
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.0.3 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-<b>- 𝚃𝙷𝙸𝚂 𝙸𝚂 𝙰𝙽 𝙸𝚂 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃. 
-- 𝚂𝙾𝚄𝚁𝙲𝙴 - 𝙲𝙻𝙸𝙲𝙺 𝚁𝙴𝙿𝙾 𝙱𝚄𝚃𝚃𝙾𝙽</b>
-<b>DEVS:</b>
-- <a href=https://t.me/czdbotz>𝙲𝚉𝙳 𝙱𝙾𝚃𝚉</a>"""
+<b>- THIS IS A PRIVATE REPO!.
+
+
+"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
